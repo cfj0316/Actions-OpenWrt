@@ -1,5 +1,6 @@
 当前配置
-
++ filetransfer
+- 一些kmod
 old1
 Kernel modules + Network Devices剪掉部分驱动
 ext   outocore      outomount
